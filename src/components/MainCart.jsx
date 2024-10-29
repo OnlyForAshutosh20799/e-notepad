@@ -62,7 +62,7 @@ function MainCart() {
           </div>
         ))}
 
-        <div>hello eoekdlfh</div>
+        
       </div>
     </>
   );
